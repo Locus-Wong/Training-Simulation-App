@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 4. Click / Tap the "EFCS 1" button.
 5. Click / Tap the "TEST" button.
 6. Click / Tap the "AILERON DAMPING TEST" button.
-7. Select either the Left or Right aileron to enter the corresponding testing interface.
+7. Select either "START LEFT AIL TEST" or "START RIGHT AIL TEST" button to enter the corresponding testing interface.
