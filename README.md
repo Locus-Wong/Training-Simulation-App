@@ -8,7 +8,7 @@
 
 ## Installation and Use Instructions:
 Detailed Demo Video for All Versions:
-<a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Watch the video</a>
+<div><a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Watch the video</a></div>
 
 ### Version 1: Using the USB port on your PC
 1. Plug the USB cable from the remote aircraft (Arduino) into a USB port on your computer.
