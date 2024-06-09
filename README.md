@@ -6,11 +6,10 @@
 ## Mobile Version:
 ![Demonstration video](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/3d42cc2e-da2d-4466-9898-c509dfca882a)
 
-
-## Demo Video:
-https://www.youtube.com/watch?v=PqyHtseUgWo
-
 ## Installation and Use Instructions:
+Detailed Demo Video for All Versions:
+<a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Watch the video</a>
+
 ### Version 1: Using the USB port on your PC
 1. Plug the USB cable from the remote aircraft (Arduino) into a USB port on your computer.
 2. Open the "A320AileronDampingTest" folder and run "A320AileronDampingTest.exe".
