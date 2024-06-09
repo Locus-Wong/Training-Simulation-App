@@ -44,12 +44,12 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 5. Click / Tap "START LEFT AIL TEST" or "START RIGHT AIL TEST" to enter the testing interface.
 
 ## Troubleshooting
-If you cannot test the aileron with your device, the most likely problems are:
+If you cannot test the aileron with your device, consider these common issues:
 ### General Issues:
-- **USB Connection:** Ensure the USB cable from the remote aircraft (Arduino) is properly connected to a USB port on your computer or power bank. Verify the connection is successful before proceeding.
+- **USB Connection:** Ensure the USB cable from the remote aircraft (Arduino) is properly connected to a USB port on your computer or power bank.
 ### Using the USB port on your PC:
-- **COM Port Selection:** You might have selected the wrong COM port number for the Arduino. Ensure you choose the correct one.
+- **COM Port Selection:** Verify you selected the correct COM port number for the Arduino.
 ### Using Bluetooth:
-- **Bluetooth Function:** Ensure Bluetooth is enabled on your device. Look for a Bluetooth symbol at the top of your phone screen or in the taskbar of your computer.
-- **Pairing HC-05 Module:** Verify that your device is paired with the HC-05 Bluetooth module using the pairing code: 1234.
+- **Bluetooth Function:** Ensure Bluetooth is enabled on your device and check for the Bluetooth symbol on your phone screen or computer taskbar.
+- **Pairing HC-05 Module:** Confirm your device is paired with the HC-05 device using the code: 1234.
 - **COM Port Selection:** Ensure you select the correct Virtual COM port number for the HC-05 device on your computer or the correct HC-05 option (00:18:E4:03:51:7C) on your phone.
