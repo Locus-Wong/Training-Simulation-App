@@ -1,7 +1,8 @@
 # Training-Simulation-App
 
 ## PC Version:
-![Demonstration video](https://github.com/Locus-Wong/Training-Simulation-App/assets/125144955/951fe633-7bbc-4006-b2bd-1c88ad2da22f)
+![GUI program](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/f366f805-3828-4124-b89c-ef0653655bce)
+
 
 ## Mobile Version:
 ![Demonstration video 2](https://github.com/Locus-Wong/Training-Simulation-App/assets/125144955/6536e28a-4741-4b8a-a51d-b439e468d9c3)
