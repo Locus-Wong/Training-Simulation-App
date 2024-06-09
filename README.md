@@ -26,13 +26,14 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 ## Version 3: Use the Bluetooth function of your smartphone
 1. Plug the USB cable from the remote aircraft (Arduino) into a power bank.
 2. Move "A320AileronDampingTest.apk" from the "Android App apk" folder to your Android phone.
-3. Install the APK on your Android phone.
-4. Go to the Bluetooth settings.
-5. Turn on Bluetooth and pair with the HC-05 device by entering the pairing code: 1234.
-6. Open the "A320AileronDampingTest" app.
-7. Follow the Aileron Damping Test Steps (listed below).
-8. Tap the Bluetooth logo and select the HC-05 device (00:18:E4:03:51:7C) to build the Bluetooth connection.
-9. Move the upper or lower slider to test the aileron.
+3. Ensure that the Special app access for "Install unknown apps" is granted.
+4. Install the APK on your Android phone.
+5. Go to Bluetooth settings.
+6. Turn on Bluetooth and pair with the HC-05 device by entering the pairing code: 1234.
+7. Open the "A320AileronDampingTest" app.
+8. Follow the Aileron Damping Test Steps (listed below).
+9. Tap the Bluetooth logo and select the HC-05 device (00:18:E4:03:51:7C) to establish the Bluetooth connection.
+10. Move the upper or lower slider to test the aileron.
 
 ## Aileron Damping Test Steps (5 Steps Only):
 1. Click / Tap the "SYSTEM REPORT / TEST" button.
