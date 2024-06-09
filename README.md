@@ -1,4 +1,4 @@
-# Training-Simulation-App
+# Training Simulation App
 
 ## PC Version:
 ![GUI program](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/f366f805-3828-4124-b89c-ef0653655bce)
