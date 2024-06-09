@@ -10,8 +10,7 @@ This project aims to assist aircraft maintenance companies in training their jun
 ![Demonstration video](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/3d42cc2e-da2d-4466-9898-c509dfca882a)
 
 ## Installation and Use Instructions:
-### Detailed Guide Video for All Versions
-<div><a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Watch the video</a></div>
+<div><a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Detailed Guide Video for All Versions</a></div>
 
 ### Version 1: Using the USB port on your PC
 1. Plug the USB cable from the remote aircraft (Arduino) into a USB port on your computer.
