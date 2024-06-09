@@ -1,10 +1,13 @@
 # Training-Simulation-App
 
-## Demo Video:
-https://www.youtube.com/watch?v=PqyHtseUgWo
-
+## PC Version:
 ![Demonstration video](https://github.com/Locus-Wong/Training-Simulation-App/assets/125144955/951fe633-7bbc-4006-b2bd-1c88ad2da22f)
 
+## Mobile Version:
+![Demonstration video 2](https://github.com/Locus-Wong/Training-Simulation-App/assets/125144955/6536e28a-4741-4b8a-a51d-b439e468d9c3)
+
+## Demo Video:
+https://www.youtube.com/watch?v=PqyHtseUgWo
 
 ## Installation and Use Instructions:
 ### Version 1: Using the USB port on your PC
