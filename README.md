@@ -7,7 +7,7 @@
 ![Demonstration video](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/3d42cc2e-da2d-4466-9898-c509dfca882a)
 
 ## Installation and Use Instructions:
-Detailed Demo Video for All Versions:
+### Detailed Demo Video for All Versions
 <div><a href="https://www.youtube.com/watch?v=PqyHtseUgWo">Watch the video</a></div>
 
 ### Version 1: Using the USB port on your PC
@@ -42,7 +42,7 @@ Detailed Demo Video for All Versions:
 9. Tap the Bluetooth logo and select the HC-05 device (00:18:E4:03:51:7C) to establish the Bluetooth connection.
 10. Move the upper or lower slider to test the aileron.
 
-### Aileron Damping Test Steps (5 Steps Only)
+### Aileron Damping Test Steps
 1. Click / Tap the "SYSTEM REPORT / TEST" button.
 2. Click / Tap the "EFCS 1" button.
 3. Click / Tap the "TEST" button.
