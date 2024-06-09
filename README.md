@@ -36,14 +36,14 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 9. Tap the Bluetooth logo and select the HC-05 device (00:18:E4:03:51:7C) to establish the Bluetooth connection.
 10. Move the upper or lower slider to test the aileron.
 
-### Aileron Damping Test Steps (5 Steps Only):
+### Aileron Damping Test Steps (5 Steps Only)
 1. Click / Tap the "SYSTEM REPORT / TEST" button.
 2. Click / Tap the "EFCS 1" button.
 3. Click / Tap the "TEST" button.
 4. Click / Tap the "AILERON DAMPING TEST" button.
 5. Click / Tap "START LEFT AIL TEST" or "START RIGHT AIL TEST" to enter the testing interface.
 
-## Troubleshooting
+## Troubleshooting:
 If you cannot test the aileron with your device, consider these common issues:
 ### General Issues:
 - **USB Connection:** Ensure the USB cable from the remote aircraft (Arduino) is properly connected to a USB port on your computer or power bank.
