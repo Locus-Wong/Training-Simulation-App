@@ -34,9 +34,9 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 8. Touch the Bluetooth Logo and select the 00:18:E4:03:51:7C HC-05 to build the Bluetooth connection.
 9. Move the upper or lower slider to test the aileron.
 
-### Aileron Damping Test Steps (3 - 7):
-3. Click / Tap the "SYSTEM REPORT / TEST" button.
-4. Click / Tap the "EFCS 1" button.
-5. Click / Tap the "TEST" button.
-6. Click / Tap the "AILERON DAMPING TEST" button.
-7. Select either "START LEFT AIL TEST" or "START RIGHT AIL TEST" button to enter the corresponding testing interface.
+### Aileron Damping Test Steps (1 - 5):
+1. Click / Tap the "SYSTEM REPORT / TEST" button.
+2. Click / Tap the "EFCS 1" button.
+3. Click / Tap the "TEST" button.
+4. Click / Tap the "AILERON DAMPING TEST" button.
+5. Select either "START LEFT AIL TEST" or "START RIGHT AIL TEST" button to enter the corresponding testing interface.
