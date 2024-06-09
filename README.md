@@ -3,10 +3,10 @@
 ## Project Description:
 This project aims to assist aircraft maintenance companies in training their junior workers without the need for a real aircraft. The application features a simulated interface of an A320 aircraft cockpit and is integrated with a remote-controlled plane. This setup allows users to simulate the testing procedures of the Airbus A320 aileron damping test.
 
-## PC Demo Version:
+## PC Version Demo:
 ![GUI program](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/f366f805-3828-4124-b89c-ef0653655bce)
 
-## Mobile Demo Version:
+## Mobile Version Demo:
 ![Demonstration video](https://github.com/Locus-Wong/Training-simulation-app/assets/125144955/3d42cc2e-da2d-4466-9898-c509dfca882a)
 
 ## Installation and Use Instructions:
