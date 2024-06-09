@@ -1,6 +1,6 @@
 # Training Simulation App
 
-## Project Description
+## Project Description:
 This project aims to assist aircraft maintenance companies in training their junior workers without the need for a real aircraft. The application features a simulated interface of an A320 aircraft cockpit and is integrated with a remote-controlled plane. This setup allows users to simulate the testing procedures of the Airbus A320 aileron damping test.
 
 ## PC Version:
