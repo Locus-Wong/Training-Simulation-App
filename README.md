@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 2. Click / Tap the "EFCS 1" button.
 3. Click / Tap the "TEST" button.
 4. Click / Tap the "AILERON DAMPING TEST" button.
-5. Select either "START LEFT AIL TEST" or "START RIGHT AIL TEST" button to enter the corresponding testing interface.
+5. Click / Tap either "START LEFT AIL TEST" or "START RIGHT AIL TEST" button to enter the corresponding testing interface.
