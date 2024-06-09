@@ -59,3 +59,6 @@ If you cannot test the aileron with your device, consider these common issues:
 - **Bluetooth Function:** Ensure Bluetooth is enabled on your device and check for the Bluetooth symbol on your phone screen or computer taskbar.
 - **Pairing HC-05 Module:** Confirm your device is paired with the HC-05 device using the code: 1234.
 - **COM Port Selection:** Ensure you select the correct Virtual COM port number for the HC-05 device on your computer or the correct HC-05 option (00:18:E4:03:51:7C) on your phone.
+
+## Reference video:
+<a href="https://www.youtube.com/watch?v=bqyna1n1f2g"> Airbus A320 Aileron Damping Test</a>
