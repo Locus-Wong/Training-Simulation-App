@@ -3,6 +3,9 @@
 ## Demo Video:
 https://www.youtube.com/watch?v=PqyHtseUgWo
 
+![Demonstration video](https://github.com/Locus-Wong/Training-Simulation-App/assets/125144955/951fe633-7bbc-4006-b2bd-1c88ad2da22f)
+
+
 ## Installation and Use Instructions:
 ### Version 1: Using the USB port on your PC
 1. Plug the USB cable from the remote aircraft (Arduino) into a USB port on your computer.
