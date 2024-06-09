@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=PqyHtseUgWo
 ## Version 1: Use the USB port on your PC
 - Step 1: Plug the USB cable from the remote aircraft (Arduino) into a USB port directly on your computer.
 - Step 2: Open the A320AileronDampingTest.exe which is inside "A320AileronDampingTest" file.
-The followings illustrates the steps of doing aileron damping test.
+<br><br>The followings illustrates the steps of doing aileron damping test.
 - Step 3: Click the "SYSTEM REPORT / TEST" button.
 - Step 4: Click the "EFCS 1" button.
 - Step 5: Click the "TEST" button.
